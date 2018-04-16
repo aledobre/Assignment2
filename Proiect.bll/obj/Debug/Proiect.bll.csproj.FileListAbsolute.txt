@@ -1,0 +1,12 @@
+C:\Users\Alexandra Dobre\source\repos\Proiect\Proiect.bll\bin\Debug\Proiect.bll.dll
+C:\Users\Alexandra Dobre\source\repos\Proiect\Proiect.bll\bin\Debug\Proiect.bll.pdb
+C:\Users\Alexandra Dobre\source\repos\Proiect\Proiect.bll\obj\Debug\Proiect.bll.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra Dobre\source\repos\Proiect\Proiect.bll\obj\Debug\Proiect.bll.dll
+C:\Users\Alexandra Dobre\source\repos\Proiect\Proiect.bll\obj\Debug\Proiect.bll.pdb
+C:\Users\Alexandra Dobre\source\repos\Proiect\Proiect.bll\obj\Debug\Proiect.bll.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra Dobre\source\repos\Proiect\Proiect.bll\bin\Debug\Proiect.dao.dll
+C:\Users\Alexandra Dobre\source\repos\Proiect\Proiect.bll\bin\Debug\EntityFramework.dll
+C:\Users\Alexandra Dobre\source\repos\Proiect\Proiect.bll\bin\Debug\Proiect.dao.pdb
+C:\Users\Alexandra Dobre\source\repos\Proiect\Proiect.bll\bin\Debug\Proiect.dao.dll.config
+C:\Users\Alexandra Dobre\source\repos\Proiect\Proiect.bll\bin\Debug\EntityFramework.xml
+C:\Users\Alexandra Dobre\source\repos\Proiect\Proiect.bll\obj\Debug\Proiect.bll.csproj.CopyComplete
